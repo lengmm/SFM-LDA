@@ -1,0 +1,9 @@
+trainFiles: Dataset/UCSD_Train1
+testFiles: Dataset/UCSD_Test1
+testLabels: Dataset/label_test_ucsd1
+trainR: Result/train
+testR: Result/test
+cellrows:5, cellcols:5, cellbins:10
+width: 238, height: 158
+centerCount: 80
+selected: 32
